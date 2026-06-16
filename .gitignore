@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local data cache (PDB raw files and processed .pt files)
+cache/
+data/raw_pdb/
+data/processed/
+
+# IDE files
+.vscode/
+.idea/
